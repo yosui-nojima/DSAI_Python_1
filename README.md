@@ -1,4 +1,16 @@
 # データサイエンス・AI入門 Python実習講義
 ## Google Coloabの利用方法
-1. Goolgeで`Google Colab`と検索
-2. 
+1. Goolgeで`Google Colab`と検索し、赤枠をクリック。
+<img width="988" height="494" alt="スクリーンショット 2026-11-16 13 39 11" src="https://github.com/user-attachments/assets/92c0a8d5-e811-48ce-a9c1-1dfa78b37b41" />
+
+2. 赤枠の`Colabへようこそ`をクリック
+<img width="2555" height="846" alt="スクリーンショット 2026-11-16 13 37 06" src="https://github.com/user-attachments/assets/8eb9c64c-27b0-4565-8fbc-ee130b57b288" />
+
+3. 赤枠の`ファイル`→`ドライブの新しいノートブック`をクリック
+<img width="2557" height="1026" alt="スクリーンショット 2026-11-16 13 37 37" src="https://github.com/user-attachments/assets/699c01ef-a69d-435b-87a4-d05eff88e66d" />
+
+4. Googleアカウントでログインしていない場合は、下記のような画面が表示される。持っていない人は、新規にアカウントを作成する。赤枠の`ログイン`をクリック。
+<img width="2555" height="1088" alt="スクリーンショット 2026-11-16 13 37 41" src="https://github.com/user-attachments/assets/df528f27-1b3b-4067-81d7-59426a8ac25d" />
+
+5. ログイン後、下記の画面が表示されていれば実行準備完了。`+コード`をクリックすると、コード用の空のセルが追加され、`+テキスト`をクリックすると、テキスト用（メモなど）の空のセルが追加される。
+<img width="2556" height="977" alt="スクリーンショット 2026-11-16 13 38 27" src="https://github.com/user-attachments/assets/5e299725-b1b8-4c0d-a6f8-6e8da3953517" />
