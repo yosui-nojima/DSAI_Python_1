@@ -1,11 +1,11 @@
 # データサイエンス・AI入門 Python実習講義
-### 目次\
-### [１．Google Coloabの利用方法](https://github.com/yosui-nojima/DSAI_Python_1/blob/main/README.md#%EF%BC%91google-coloab%E3%81%AE%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95)\
-### [２．Google Coloabへアップロードするファイルの取得方法](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%92google-coloab%E3%81%B8%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E5%8F%96%E5%BE%97%E6%96%B9%E6%B3%95)\
-### [３．Google Coloabへのファイルアップロード方法](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%93google-coloab%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95)\
-### [４．Pythonの基礎](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%94python%E3%81%AE%E5%9F%BA%E7%A4%8E)\
-### [５．ニューラルネットワーク演習](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%95%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%BC%94%E7%BF%92)\
-### [６．機械学習(SVM・RF)演習](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%96%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92svmrf%E6%BC%94%E7%BF%92)
+### 目次
+#### [１．Google Coloabの利用方法](https://github.com/yosui-nojima/DSAI_Python_1/blob/main/README.md#%EF%BC%91google-coloab%E3%81%AE%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95)
+#### [２．Google Coloabへアップロードするファイルの取得方法](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%92google-coloab%E3%81%B8%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E5%8F%96%E5%BE%97%E6%96%B9%E6%B3%95)
+#### [３．Google Coloabへのファイルアップロード方法](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%93google-coloab%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95)
+#### [４．Pythonの基礎](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%94python%E3%81%AE%E5%9F%BA%E7%A4%8E)
+#### [５．ニューラルネットワーク演習](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%95%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%BC%94%E7%BF%92)
+#### [６．機械学習(SVM・RF)演習](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%96%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92svmrf%E6%BC%94%E7%BF%92)
 
 ## １．Google Coloabの利用方法
 1. Goolgeで`Google Colab`と検索し、赤枠をクリック。
