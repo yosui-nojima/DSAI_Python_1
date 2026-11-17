@@ -85,3 +85,22 @@ name2
 type(name1)
 ```
 - `str`：string（文字列）
+
+```
+name1+a
+```
+```
+name1*3
+```
+#### ブール型
+- 真（True）
+- 疑（False）
+```
+flag = True
+```
+```
+flag
+```
+```
+type(flag)
+```
