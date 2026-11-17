@@ -41,12 +41,12 @@
 ## ５．ニューラルネットワーク演習
 [ニューラルネットワーク_演習](https://colab.research.google.com/drive/1Uw9KUbfbDz3TBQegfAC6yL5ig_ogYgvX)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
-2. ファイルのアップロードは`３．Google Coloabへのファイルアップロード方法`を参照
+2. ファイルのアップロードは[３．Google Coloabへのファイルアップロード方法](https://github.com/yosui-nojima/DSAI_Python_1/blob/main/README.md#%EF%BC%93google-coloab%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95)を参照
 
 ## ６．機械学習(SVM・RF)演習
 [機械学習(SVM・RF)_演習](https://colab.research.google.com/drive/1B6QNibW940Oa4jwVArWYmMau9-EbUFxG)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
-2. ファイルのアップロードは`３．Google Coloabへのファイルアップロード方法`を参照
+2. ファイルのアップロードは[３．Google Coloabへのファイルアップロード方法](https://github.com/yosui-nojima/DSAI_Python_1/blob/main/README.md#%EF%BC%93google-coloab%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95)を参照
 
 
 
