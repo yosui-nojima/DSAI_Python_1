@@ -16,7 +16,7 @@
 <img width="2556" height="977" alt="スクリーンショット 2026-11-16 13 38 27" src="https://github.com/user-attachments/assets/5e299725-b1b8-4c0d-a6f8-6e8da3953517" />
 
 ## Pythonの基礎
-### データの扱い方
+### 1. データの扱い方
 変数aに3を代入する
 ```
 a = 3
