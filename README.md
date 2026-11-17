@@ -41,12 +41,12 @@
 ## ５．ニューラルネットワーク演習
 [ニューラルネットワーク_演習](https://colab.research.google.com/drive/1Uw9KUbfbDz3TBQegfAC6yL5ig_ogYgvX)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
-2. ファイルのアップロードは下記を参照
+2. ファイルのアップロードは`３．Google Coloabへのファイルアップロード方法`を参照
 
 ## ６．機械学習(SVM・RF)演習
 [機械学習(SVM・RF)_演習](https://colab.research.google.com/drive/1B6QNibW940Oa4jwVArWYmMau9-EbUFxG)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
-2. ファイルのアップロードは下記を参照
+2. ファイルのアップロードは`３．Google Coloabへのファイルアップロード方法`を参照
 
 
 
