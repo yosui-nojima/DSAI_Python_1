@@ -106,7 +106,7 @@ type(flag)
 ```
 
 #### 複合データの扱い方
-リストとして定義
+##### リスト
 ```
 values = [4, 3.2, 'データサイエンス', True]
 ```
@@ -129,10 +129,77 @@ values[3]=False
 ```
 values[0:2]
 ```
+先頭を省略
+```
+values[:2]
+```
+最後を省略
+```
+values[0:]
+```
 
+##### タプル
+宣言後に要素の書き換えや追加といった更新が行えない
+タプルとして宣言
+```
+values = (4, 3.2, 'データサイエンス', True)
+```
+```
+values
+```
+```
+type(values)
+```
+```
+values[0]
+```
+```
+values[3] = False
+```
+##### 辞書
+```
+results = [70, 80, 90]
+```
+辞書型は`{key:value}`で定義
+```
+results = {'数学':70, '英語':80, '理科':90}
+```
+```
+results
+```
+```
+results['数学']
+```
+```
+results['数学']=100
+```
+```
+results
+```
+```
+type(results)
+```
+- `dict`：dictionary（辞書型）  
 
-
-
+##### 集合
+keyだけをまとめたもの
+```
+keys = set({'apple', 'orange', 'grape'})
+```
+```
+keys
+```
+集合は重複を許さない
+```
+keys = set({'apple', 'orange', 'grape', 'apple'})
+```
+```
+keys
+```
+```
+type(keys)
+```
+- `set`：集合
 
 
 
