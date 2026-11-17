@@ -1,4 +1,12 @@
 # データサイエンス・AI入門 Python実習講義
+目次
+[１．Google Coloabの利用方法](https://github.com/yosui-nojima/DSAI_Python_1/blob/main/README.md#%EF%BC%91google-coloab%E3%81%AE%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95)
+[２．Google Coloabへアップロードするファイルの取得方法](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%92google-coloab%E3%81%B8%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E5%8F%96%E5%BE%97%E6%96%B9%E6%B3%95)
+[３．Google Coloabへのファイルアップロード方法](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%93google-coloab%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95)
+[４．Pythonの基礎](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%94python%E3%81%AE%E5%9F%BA%E7%A4%8E)
+[５．ニューラルネットワーク演習](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%95%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%BC%94%E7%BF%92)
+[６．機械学習(SVM・RF)演習](https://github.com/yosui-nojima/DSAI_Python_1/tree/main#%EF%BC%96%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92svmrf%E6%BC%94%E7%BF%92)
+
 ## １．Google Coloabの利用方法
 1. Goolgeで`Google Colab`と検索し、赤枠をクリック。
 <img width="988" height="494" alt="スクリーンショット 2026-11-16 13 39 11" src="https://github.com/user-attachments/assets/92c0a8d5-e811-48ce-a9c1-1dfa78b37b41" />
@@ -32,7 +40,6 @@
 <img width="1510" height="603" alt="スクリーンショット 2026-11-17 19 47 03" src="https://github.com/user-attachments/assets/244e5bbd-b26c-484d-b993-57ef635037fd" />
 2. 先ほどダウンロードしたファイルを指定して、アップロードする。下記のようにファイル名が表示されていればアップロード完了。
 <img width="1505" height="614" alt="スクリーンショット 2026-11-17 19 48 06" src="https://github.com/user-attachments/assets/ec4f89a5-38ba-4e92-8c6f-0bc36dd3216e" />
-
 
 ## ４．Pythonの基礎
 [Python_基礎](https://colab.research.google.com/drive/1PujPvNZfmS3A67KzsszRls4YLzuCFXGL)
