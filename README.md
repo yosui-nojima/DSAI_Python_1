@@ -15,6 +15,9 @@
 5. ログイン後、下記の画面が表示されていれば実行準備完了。`+コード`をクリックすると、コード用の空のセルが追加され、`+テキスト`をクリックすると、テキスト用（メモなど）の空のセルが追加される。
 <img width="2556" height="977" alt="スクリーンショット 2026-11-16 13 38 27" src="https://github.com/user-attachments/assets/5e299725-b1b8-4c0d-a6f8-6e8da3953517" />
 
+6. 講義資料のGoogle Colabにアクセスした際は、下記画面の赤枠ドライブにコピーをクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること（ただし、アップロードしたファイルはランタイムの終了時に削除されるため、接続が切れた場合再度アップロードが必要。）。
+
+7. Google Colabへのファイルのアップロードは下記を参照。
 ## ２．Pythonの基礎
 [Python_基礎](https://colab.research.google.com/drive/1PujPvNZfmS3A67KzsszRls4YLzuCFXGL)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
