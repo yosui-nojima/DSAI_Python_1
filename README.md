@@ -16,18 +16,34 @@
 <img width="2556" height="977" alt="スクリーンショット 2026-11-16 13 38 27" src="https://github.com/user-attachments/assets/5e299725-b1b8-4c0d-a6f8-6e8da3953517" />
 
 6. 講義資料のGoogle Colabにアクセスした際は、下記画面の赤枠ドライブにコピーをクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること（ただし、アップロードしたファイルはランタイムの終了時に削除されるため、接続が切れた場合再度アップロードが必要。）。
+<img width="1719" height="699" alt="スクリーンショット 2026-11-17 16 50 28" src="https://github.com/user-attachments/assets/470a71eb-1707-47af-aef8-7b3bebed485a" />
 
-7. Google Colabへのファイルのアップロードは下記を参照。
-## ２．Pythonの基礎
+## ２．Google Coloabへアップロードするファイルの取得方法
+1. Github(このページ)の上部に表示されているファイル名（下記の赤枠）をクリック
+<img width="1947" height="783" alt="スクリーンショット 2026-11-17 19 50 02" src="https://github.com/user-attachments/assets/261ce72a-4a19-40ce-90ad-a586c4d28f8a" />
+
+3. 下記赤枠の右上ダウンロードボタンをクリックすると、任意のフォルダにファイルがダウンロードされる
+<img width="2553" height="879" alt="スクリーンショット 2026-11-17 19 50 06" src="https://github.com/user-attachments/assets/b7855b4f-a357-4336-8c96-565bb6c1e1f4" />
+
+5. もう１つのファイルも同様の方法でダウンロード可能
+
+## ３．Google Coloabへのファイルアップロード方法
+1. Google Colabへのファイルのアップロードでは、まず赤枠のアップロードボタンをクリック。
+<img width="1510" height="603" alt="スクリーンショット 2026-11-17 19 47 03" src="https://github.com/user-attachments/assets/244e5bbd-b26c-484d-b993-57ef635037fd" />
+2. ファイルを指定して、アップロードする。下記のようにファイル名が表示されていればアップロード完了。
+<img width="1505" height="614" alt="スクリーンショット 2026-11-17 19 48 06" src="https://github.com/user-attachments/assets/ec4f89a5-38ba-4e92-8c6f-0bc36dd3216e" />
+
+
+## ４．Pythonの基礎
 [Python_基礎](https://colab.research.google.com/drive/1PujPvNZfmS3A67KzsszRls4YLzuCFXGL)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
 
-## ３．ニューラルネットワーク演習
+## ５．ニューラルネットワーク演習
 [ニューラルネットワーク_演習](https://colab.research.google.com/drive/1Uw9KUbfbDz3TBQegfAC6yL5ig_ogYgvX)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
 2. ファイルのアップロードは下記を参照
 
-## ４．機械学習(SVM・RF)演習
+## ６．機械学習(SVM・RF)演習
 [機械学習(SVM・RF)_演習](https://colab.research.google.com/drive/1B6QNibW940Oa4jwVArWYmMau9-EbUFxG)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
 2. ファイルのアップロードは下記を参照
