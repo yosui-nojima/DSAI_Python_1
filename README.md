@@ -30,7 +30,7 @@
 ## ３．Google Coloabへのファイルアップロード方法
 1. Google Colabへのファイルのアップロードでは、まず赤枠のアップロードボタンをクリック。
 <img width="1510" height="603" alt="スクリーンショット 2026-11-17 19 47 03" src="https://github.com/user-attachments/assets/244e5bbd-b26c-484d-b993-57ef635037fd" />
-2. ファイルを指定して、アップロードする。下記のようにファイル名が表示されていればアップロード完了。
+2. 先ほどダウンロードしたファイルを指定して、アップロードする。下記のようにファイル名が表示されていればアップロード完了。
 <img width="1505" height="614" alt="スクリーンショット 2026-11-17 19 48 06" src="https://github.com/user-attachments/assets/ec4f89a5-38ba-4e92-8c6f-0bc36dd3216e" />
 
 
