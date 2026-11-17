@@ -19,7 +19,7 @@
 <img width="1719" height="699" alt="スクリーンショット 2026-11-17 16 50 28" src="https://github.com/user-attachments/assets/470a71eb-1707-47af-aef8-7b3bebed485a" />
 
 ## ２．Google Coloabへアップロードするファイルの取得方法
-1. Github(このページ)の上部に表示されているファイル名（下記の赤枠）をクリック
+1. [本日のGithubの講義資料]()の上部に表示されているファイル名（下記の赤枠）をクリック
 <img width="1947" height="783" alt="スクリーンショット 2026-11-17 19 50 02" src="https://github.com/user-attachments/assets/261ce72a-4a19-40ce-90ad-a586c4d28f8a" />
 
 3. 下記赤枠の右上ダウンロードボタンをクリックすると、任意のフォルダにファイルがダウンロードされる
