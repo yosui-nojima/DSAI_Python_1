@@ -50,7 +50,7 @@
 <img width="1628" height="891" alt="スクリーンショット 2026-11-18 13 32 11" src="https://github.com/user-attachments/assets/0c2876cf-40cb-4423-8f42-4bfaf4a0b5dd" />
 
 ## ５．Pythonの基礎
-[Python_基礎](https://colab.research.google.com/drive/1PujPvNZfmS3A67KzsszRls4YLzuCFXGL)
+[Python_基礎](https://colab.research.google.com/drive/1pBV8KO_lLMWP9IBWjDHF0oxSksp_A77o)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
 
 ## ６．ニューラルネットワーク演習
