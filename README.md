@@ -35,21 +35,32 @@
 3. 先ほどダウンロードしたファイルを指定して、アップロードする。下記のようにファイル名が表示されていればアップロード完了。
 <img width="1505" height="614" alt="スクリーンショット 2026-11-17 19 48 06" src="https://github.com/user-attachments/assets/ec4f89a5-38ba-4e92-8c6f-0bc36dd3216e" />
 
-## ４．Pythonの基礎
+## ４．Google Coloabへのファイルアップロード方法
+### ４−１．出力結果の保存方法
+1. 各セルの下にそのセルの実行結果がテキストで出力される。
+2. 左上の`⋯`をクリックし、`セルの出力をコピー`をクリックすると、コピーできるため、Wordなどにペーストする。
+
+### ４−２．画像ファイルの保存方法
+1. 図が出力されるセルの実行が終了した後、赤枠のフォルダマークををクリックする。
+<img width="1458" height="600" alt="スクリーンショット 2026-11-18 10 36 47" src="https://github.com/user-attachments/assets/b6a4c45d-7ed3-4ecb-8288-c2ef10752aae" />
+2. `.png`ファイルが画像ファイルであり、そのファイル名右側の`︙`をクリックする。
+3. `ダウンロード`が表示されるので、クリックすると、任意の場所にファイルがダウンロードされる。
+
+## ５．Pythonの基礎
 [Python_基礎](https://colab.research.google.com/drive/1PujPvNZfmS3A67KzsszRls4YLzuCFXGL)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
 
-## ５．ニューラルネットワーク演習
+## ６．ニューラルネットワーク演習
 [ニューラルネットワーク_演習](https://colab.research.google.com/drive/1Uw9KUbfbDz3TBQegfAC6yL5ig_ogYgvX)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
 2. ファイルのアップロードは[３．Google Coloabへのファイルアップロード方法](https://github.com/yosui-nojima/DSAI_Python_1/blob/main/README.md#%EF%BC%93google-coloab%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95)を参照
 
-## ６．機械学習(SVM・RF)演習
+## ７．機械学習(SVM・RF)演習
 [機械学習(SVM・RF)_演習](https://colab.research.google.com/drive/1B6QNibW940Oa4jwVArWYmMau9-EbUFxG)
 1. 上記のGoogle Colabにアクセス、下記画面の赤枠`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
 2. ファイルのアップロードは[３．Google Coloabへのファイルアップロード方法](https://github.com/yosui-nojima/DSAI_Python_1/blob/main/README.md#%EF%BC%93google-coloab%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95)を参照
 
-## ７．レポート課題
+## ８．レポート課題
 1. 「ニューラルネットワーク演習」において、テストデータの平均正解率が９０％以上となるように、中間層の数・エポック数・活性化関数のハイパーパラメーターを修正する。
 2. 同じデータを用いて、「機械学習(SVM・RF)演習」を実行し、１．の精度と比較する。
 
