@@ -47,6 +47,7 @@
 2. `.png`ファイルが画像ファイルであり、そのファイル名右側の`︙`（下記の赤枠）をクリックする。
 <img width="1560" height="878" alt="スクリーンショット 2026-11-18 13 31 53" src="https://github.com/user-attachments/assets/626374ef-8b3e-42af-88e7-a60ab834df7e" />
 3. `ダウンロード`（下記の赤枠）が表示されるので、クリックすると、任意の場所にファイルがダウンロードされる。
+<img width="1628" height="891" alt="スクリーンショット 2026-11-18 13 32 11" src="https://github.com/user-attachments/assets/0c2876cf-40cb-4423-8f42-4bfaf4a0b5dd" />
 
 ## ５．Pythonの基礎
 [Python_基礎](https://colab.research.google.com/drive/1PujPvNZfmS3A67KzsszRls4YLzuCFXGL)
