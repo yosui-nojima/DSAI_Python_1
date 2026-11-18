@@ -38,13 +38,16 @@
 ## ４．Google Coloabへのファイルアップロード方法
 ### ４−１．出力結果の保存方法
 1. 各セルの下にそのセルの実行結果がテキストで出力される。
-2. 左上の`⋯`をクリックし、`セルの出力をコピー`をクリックすると、コピーできるため、Wordなどにペーストする。
+2. 左上の`⋯`（下記の赤枠）をクリックし、`セルの出力をコピー`をクリックすると、コピーできるため、Wordなどにペーストする。
+<img width="1323" height="1189" alt="スクリーンショット 2026-11-18 13 31 22" src="https://github.com/user-attachments/assets/d6e4e4a5-f419-47d5-b8b3-00428e992961" />
 
 ### ４−２．画像ファイルの保存方法
-1. 図が出力されるセルの実行が終了した後、赤枠のフォルダマークををクリックする。
+1. 図が出力されるセルの実行が終了した後、下記の赤枠のフォルダマークををクリックする。
 <img width="1458" height="600" alt="スクリーンショット 2026-11-18 10 36 47" src="https://github.com/user-attachments/assets/b6a4c45d-7ed3-4ecb-8288-c2ef10752aae" />
-2. `.png`ファイルが画像ファイルであり、そのファイル名右側の`︙`をクリックする。
-3. `ダウンロード`が表示されるので、クリックすると、任意の場所にファイルがダウンロードされる。
+2. `.png`ファイルが画像ファイルであり、そのファイル名右側の`︙`（下記の赤枠）をクリックする。
+<img width="1560" height="878" alt="スクリーンショット 2026-11-18 13 31 53" src="https://github.com/user-attachments/assets/626374ef-8b3e-42af-88e7-a60ab834df7e" />
+4. `ダウンロード`（下記の赤枠）が表示されるので、クリックすると、任意の場所にファイルがダウンロードされる。
+<img width="1628" height="891" alt="スクリーンショット 2026-11-18 13 32 11" src="https://github.com/user-attachments/assets/0c2876cf-40cb-4423-8f42-4bfaf4a0b5dd" />
 
 ## ５．Pythonの基礎
 [Python_基礎](https://colab.research.google.com/drive/1PujPvNZfmS3A67KzsszRls4YLzuCFXGL)
