@@ -64,7 +64,7 @@
 2. ファイルのアップロードは[３．Google Coloabへのファイルアップロード方法](https://github.com/yosui-nojima/DSAI_Python_1/blob/main/README.md#%EF%BC%93google-coloab%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95)を参照
 
 ## ８．臨時ダウンロード
-もし`２．Google Coloabへアップロードするファイルの取得方法`でデータがダウンロードできない場合は、下記からダウンロードすること。
+もし`２．Google Coloabへアップロードするファイルの取得方法`でデータがダウンロードできない場合は、下記からダウンロードすること。\
 https://drive.google.com/drive/folders/1qMnHz9hcpW1Phe-YzAuvm-gr42BN0Xp_?usp=sharing
 
 ## ９．レポート課題
