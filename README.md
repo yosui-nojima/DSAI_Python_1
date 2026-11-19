@@ -63,12 +63,13 @@
 1. 上記のGoogle Colabにアクセス、`ドライブにコピー`をクリックし、自身のGoogle Driveにファイルをコピーしてから実行すること。
 2. ファイルのアップロードは[３．Google Coloabへのファイルアップロード方法](https://github.com/yosui-nojima/DSAI_Python_1/blob/main/README.md#%EF%BC%93google-coloab%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95)を参照
 
-## ８．レポート課題
+## ８．臨時ダウンロード
+もし`２．Google Coloabへアップロードするファイルの取得方法`でデータがダウンロードできない場合は、下記からダウンロードすること。
+https://drive.google.com/drive/folders/1qMnHz9hcpW1Phe-YzAuvm-gr42BN0Xp_?usp=sharing
+
+## ９．レポート課題
 1. 「ニューラルネットワーク_演習」において、テストデータの平均正解率が９０％以上となるように、中間層の数・エポック数・活性化関数のハイパーパラメーターを修正する。
 2. 同じデータを用いて、「機械学習(SVM・RF)_演習」を実行し、１．の精度と比較する。
-
-## 臨時ダウンロード
-https://drive.google.com/drive/folders/1qMnHz9hcpW1Phe-YzAuvm-gr42BN0Xp_?usp=sharing
 
 **レポートには以下の内容を含めること。**
 - 上記`1.`での最終的な中間層の数・エポック数・活性化関数とそのときの5-fold交差検証における正解率・ROC・AUCとテストデータにおける正解率・ROC・AUC（つまり、[ニューラルネットワーク_演習](https://colab.research.google.com/drive/1Uw9KUbfbDz3TBQegfAC6yL5ig_ogYgvX)の`1-3.`, `7.`, `9.`から出力されるテキスト出力および `8.`,`10.` から出力される画像ファイルをレポートに含めること）
